@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "code": "CS101",
+      "code": "ITI1102",
       "title": "Intro to Programming",
       "students": [
         {
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "code": "MATH200",
+      "code": "MATH2000",
       "title": "Linear Algebra",
       "students": [
         {

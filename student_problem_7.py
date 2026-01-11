@@ -1,10 +1,10 @@
 # SP7: JSON
 
-# You are given a file called 'courses.json'.
+# You are given a file called 'example.json'.
 # It contains information about several courses and the students enrolled in them.
 
 # Write a program that:
-# 1. Loads 'courses.json'.
+# 1. Loads 'example.json'
 
 # 2. For each student in each course:
 #    - Computes the average of their grades
@@ -18,5 +18,5 @@
 # 4. Writes the updated data to a new file called
 #    'courses_with_averages.json'
 
-# HINY:
-# Use the json module.
+# HINT:
+# Use the json module
