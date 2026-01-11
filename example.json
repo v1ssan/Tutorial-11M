@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "code": "CS101",
+      "title": "Intro to Programming",
+      "students": [
+        {
+          "name": "Alice",
+          "grades": [78, 85, 90]
+        },
+        {
+          "name": "Bob",
+          "grades": [60, 70, 68]
+        }
+      ]
+    },
+    {
+      "code": "MATH200",
+      "title": "Linear Algebra",
+      "students": [
+        {
+          "name": "Charlie",
+          "grades": [88, 92]
+        }
+      ]
+    }
+  ]
+}

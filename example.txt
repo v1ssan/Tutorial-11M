@@ -1,0 +1,7 @@
+Hello, Python learners!
+Welcome to the world of file handling.
+This is a simple file containing multiple lines of text.
+The quick brown fox jumps over the lazy dog.
+Python is a powerful and versatile programming language.
+File handling is an essential skill for any Python programmer.
+Have fun learning Python and exploring its vast possibilities!
